@@ -1,0 +1,12 @@
+.ff{
+    background: black;
+    color: white;
+}
+.tt{
+    background: yellow;
+
+}
+.ff ,.tt{
+    font-size: 28px;
+    font-family: Arial,"Times-New-Roman", sans-serif;
+}
